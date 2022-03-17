@@ -1,6 +1,6 @@
 .cartao-pokemon {
     display: none;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 10px;
 }
 
@@ -13,7 +13,7 @@
 }
 
 .tipo {
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     font-size: 12px;
     background-color: #fff;
     border-radius: 10px;
@@ -69,26 +69,30 @@
     display: block;
 }
 
-.tipo-fogo {
-    background-color: #ED8A8B;
+.foto-rayquaza {
+    margin-left: 35px;
 }
 
-.tipo-eletrico {
+.color-red {
+    background-color: #f16c3b;
+}
+
+.color-yellow {
     background-color: #FCC719;
 }
 
-.tipo-agua {
+.color-blue {
     background-color: #76BEFE;
 }
 
-.tipo-grama {
+.color-green {
     background-color: #49D0B0;
 }
 
-.tipo-trevas {
+.color-purple {
     background-color: #BA68C8;
 }
 
-.tipo-dragao {
-    background-color: #C29791;
+.color-brown {
+    background-color: #b47f2f;
 }
